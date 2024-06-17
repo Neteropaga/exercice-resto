@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="585px" height="584px" viewBox="0 0 585 584" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M585 0L585 0L585 584L0 584L0 0L585 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="up" clip-path="url(#clip_1)">
+    <path d="M585 0L585 0L585 584L0 584L0 0L585 0Z" id="up" fill="none" stroke="none" />
+    <g id="up">
+      <path d="M292.5 585C454.043 585 585 454.043 585 292.5C585 130.957 454.043 0 292.5 0C130.957 0 0 130.957 0 292.5C0 454.043 130.957 585 292.5 585Z" id="Oval" fill="#EF6D58" stroke="none" />
+      <path d="M278.734 198.534L191.058 298.734C180.71 310.562 189.12 329.062 204.823 329.062L380.177 329.062C387.355 329.068 393.873 324.873 396.84 318.337C399.806 311.8 398.673 304.133 393.943 298.734L306.266 198.553C302.794 194.58 297.776 192.301 292.5 192.301C287.224 192.301 282.206 194.58 278.734 198.553L278.734 198.534Z" id="Path" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

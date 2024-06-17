@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="164px" height="187px" viewBox="0 0 164 187" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M164 0L164 0L164 187L0 187L0 0L164 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Cadre Copier" clip-path="url(#clip_1)">
+    <path d="M164 0L164 0L164 187L0 187L0 0L164 0Z" id="Cadre-Copier" fill="none" stroke="none" />
+    <path d="M162.695 91.2408L155.362 82.9576C153.622 80.9914 150.807 80.9914 149.066 82.9576L91.6285 147.843L91.6285 5.02015C91.6285 2.25908 89.6288 1.88351e-05 87.1846 1.88351e-05L76.8154 1.88351e-05C74.3712 1.88351e-05 72.3715 2.25908 72.3715 5.02015L72.3715 147.843L14.9335 82.9576C13.193 80.9914 10.3785 80.9914 8.63791 82.9576L1.30541 91.2408C-0.435136 93.2071 -0.435136 96.3865 1.30541 98.3527L78.8522 185.954C80.5928 187.92 83.4072 187.92 85.1478 185.954L162.695 98.3527C164.435 96.3865 164.435 93.2071 162.695 91.2408Z" id="arrow-down" fill="#F9DF02" stroke="none" />
+  </g>
+</svg>
